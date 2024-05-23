@@ -1,0 +1,11 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.text-monospace {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #e9ecef;
+  padding: 10px;
+  border-radius: 5px;
+  word-break: break-all;
+}
